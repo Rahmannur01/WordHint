@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+661c598aaf6714c09e270de0df28371d CMakeFiles/WordHint_autogen
+420f6fbed60898b64044ae42ed7d9cfb WordHint_autogen/timestamp

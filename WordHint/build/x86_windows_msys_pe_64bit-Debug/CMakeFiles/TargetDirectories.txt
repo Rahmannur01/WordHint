@@ -1,0 +1,9 @@
+D:/Rahmannur/IT/Work/my projects/C++/QT/WordHint/WordHint/build/x86_windows_msys_pe_64bit-Debug/CMakeFiles/WordHint.dir
+D:/Rahmannur/IT/Work/my projects/C++/QT/WordHint/WordHint/build/x86_windows_msys_pe_64bit-Debug/CMakeFiles/edit_cache.dir
+D:/Rahmannur/IT/Work/my projects/C++/QT/WordHint/WordHint/build/x86_windows_msys_pe_64bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/Rahmannur/IT/Work/my projects/C++/QT/WordHint/WordHint/build/x86_windows_msys_pe_64bit-Debug/CMakeFiles/list_install_components.dir
+D:/Rahmannur/IT/Work/my projects/C++/QT/WordHint/WordHint/build/x86_windows_msys_pe_64bit-Debug/CMakeFiles/install.dir
+D:/Rahmannur/IT/Work/my projects/C++/QT/WordHint/WordHint/build/x86_windows_msys_pe_64bit-Debug/CMakeFiles/install/local.dir
+D:/Rahmannur/IT/Work/my projects/C++/QT/WordHint/WordHint/build/x86_windows_msys_pe_64bit-Debug/CMakeFiles/install/strip.dir
+D:/Rahmannur/IT/Work/my projects/C++/QT/WordHint/WordHint/build/x86_windows_msys_pe_64bit-Debug/CMakeFiles/WordHint_autogen_timestamp_deps.dir
+D:/Rahmannur/IT/Work/my projects/C++/QT/WordHint/WordHint/build/x86_windows_msys_pe_64bit-Debug/CMakeFiles/WordHint_autogen.dir

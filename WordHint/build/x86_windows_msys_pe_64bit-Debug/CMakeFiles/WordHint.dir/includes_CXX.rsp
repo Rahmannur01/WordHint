@@ -1,0 +1,1 @@
+-I"D:/Rahmannur/IT/Work/my projects/C++/QT/WordHint/WordHint/build/x86_windows_msys_pe_64bit-Debug/WordHint_autogen/include" -isystem C:/Qt/6.4.2/mingw_64/include/QtCore -isystem C:/Qt/6.4.2/mingw_64/include -isystem "C:/Qt/6.4.2/mingw_64/mkspecs/win32-g++" -isystem C:/Qt/6.4.2/mingw_64/include/QtWidgets -isystem C:/Qt/6.4.2/mingw_64/include/QtGui
