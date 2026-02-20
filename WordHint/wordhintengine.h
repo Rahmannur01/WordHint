@@ -16,7 +16,7 @@ using namespace std;
 class WordHintEngine
 {
 private:
-    QString fileName = "D:\\Rahmannur\\IT\\Work\\my projects\\C++\\QT\\WordHint\\WordHint\\master.txt";
+    QString fileName = "file_name.txt";
     QMap<QString, QList<QString>> wordDictionary;
 
 public:
